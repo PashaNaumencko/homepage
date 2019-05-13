@@ -1,0 +1,21 @@
+.contacts
+{
+    margin-top: 2rem;
+}
+
+.contacts li
+{
+    margin-bottom: 0.75rem;
+    margin-right: 3rem;
+}
+
+.avatar
+{
+    max-width: 140%;
+}
+
+@media only screen and (max-width: 766px) {
+    .avatar {
+        max-width: 50%;
+    }
+}

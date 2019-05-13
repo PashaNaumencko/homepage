@@ -6,16 +6,11 @@
 .contacts li
 {
     margin-bottom: 0.75rem;
-    margin-right: 3rem;
 }
 
 .avatar
 {
-    max-width: 140%;
+    width: 135%;
+    max-width: 15rem;
 }
 
-@media only screen and (max-width: 766px) {
-    .avatar {
-        max-width: 50%;
-    }
-}

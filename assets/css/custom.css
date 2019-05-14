@@ -39,3 +39,9 @@
     max-width: 100%;
     height: auto;
 }
+
+.divider.fat 
+{
+    border-top: 0.3571428571428571em solid #bf0f0f;
+    width: 33%;
+ }

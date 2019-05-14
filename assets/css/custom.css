@@ -8,6 +8,16 @@
     margin-bottom: 0.75rem;
 }
 
+.contacts li a.twitter:hover 
+{
+    color: #609dff;
+}
+
+.contacts li a.instagram:hover 
+{
+    color: #c9385f;
+}
+
 .avatar
 {
     width: 135%;

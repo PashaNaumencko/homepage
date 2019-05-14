@@ -8,13 +8,23 @@
     margin-bottom: 0.75rem;
 }
 
+.contacts li a.twitter:hover 
+{
+    color: #609dff;
+}
+
+.contacts li a.instagram:hover 
+{
+    color: #c9385f;
+}
+
 .avatar
 {
     width: 135%;
     max-width: 15rem;
 }
 
-.languages
+.language
 {
     margin-right: 1rem;
 }
@@ -23,3 +33,15 @@
 {
     padding-left: 1rem;
 }
+
+.meme
+{
+    max-width: 100%;
+    height: auto;
+}
+
+.divider.fat 
+{
+    border-top: 0.3571428571428571em solid #bf0f0f;
+    width: 33%;
+ }

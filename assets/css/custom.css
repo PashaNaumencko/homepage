@@ -1,0 +1,25 @@
+.contacts
+{
+    margin-top: 2rem;
+}
+
+.contacts li
+{
+    margin-bottom: 0.75rem;
+}
+
+.avatar
+{
+    width: 135%;
+    max-width: 15rem;
+}
+
+.languages
+{
+    margin-right: 1rem;
+}
+
+.media-career
+{
+    padding-left: 1rem;
+}
